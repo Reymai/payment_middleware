@@ -20,7 +20,7 @@ This is a Ruby on Rails application acting as a **middleware** between a Gateway
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/Reymai/payment_middleware
     cd payment_middleware
     ```
 
