@@ -68,3 +68,5 @@ end
 gem "faraday", "~> 2.14"
 
 gem "webmock", "~> 3.26", group: :test
+
+gem "dotenv-rails", "~> 3.2"
